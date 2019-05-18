@@ -23,7 +23,7 @@
   time.timeZone = "Europe/Moscow";
 
   environment.systemPackages = with pkgs; [
-    emacs xclip zsh tmux docker htop
+    emacs xclip zsh tmux docker htop xmobar
   ];
 
   virtualisation.docker.enable = true;
