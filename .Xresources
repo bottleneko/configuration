@@ -1,0 +1,13 @@
+XTerm.keyboardType: sun
+XTerm.fullscreen: true
+XTerm.sunKeyboard: true
+XTerm.reverseVideo: true
+
+XTerm.renderFont: true
+XTerm*faceName: VeraMono
+XTerm*faceSize: 12
+
+XTerm*cursorBlink: true
+XTerm*ScrollBar: false
+
+XTerm*selectToClipboard: true
